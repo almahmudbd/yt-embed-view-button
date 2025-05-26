@@ -1,4 +1,4 @@
-# YouTube Embed Button UserScript
+# YouTube Embed View Button UserScript
 
 This UserScript adds a convenient button to YouTube video pages. With a single click, you can open the current video in YouTube's embed view, either under the video, in the info area, or as a floating button—ensuring it's always accessible.
 It may help you to solve some problem.
